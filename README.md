@@ -10,6 +10,13 @@ The project trains 3 separate ML models: CNN, RNN(LSTM), and Transformer. These 
 
 You need several packages installed first. Make sure that they are updated.
  ```bash
+pip install numpy
+pip install tensorflow
+pip install scikit-learn
+pip install matplotlib
+pip install selenium
+pip install requests
+pip install beautifulsoup4
 ```
 
 You will also need to install with homebrew:
