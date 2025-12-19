@@ -20,7 +20,7 @@ Make sure already have an Hexameter.co account before you run step 4
 
 # Reasources used
 
-- Assisted by Flint AI to write  of the code. I gave ideas,  instructions, and pseudocode
+- Assisted by FlintAI and ClaudeAI to write  of the code. 
 - To learn the way
     - https://www.wolframcloud.com/automatic-metrical-scansion-of-latin-poetry-in-dactylic-hexameter--2019-07-5kj8o7i/
     - https://www.ibm.com/think/topics/recurrent-neural-networks#763338458
