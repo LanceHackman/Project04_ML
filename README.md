@@ -1,24 +1,15 @@
-# Machine Learning Project 01: Hexameter AI
+# Machine Learning Project 04: Improved Hexameter AI
 
-This an AI that predict the scansion of a line of Latin Poetry, specifically Hexameter.
+This an AI that predict the scansion of a line of Latin Hexameter Poetry.
 
 # Instruction to run it
 
 You need several packages installed first. Make sure that they are updated.
  ```bash
-
-pip install selenium
-pip install pytesseract
-pip install opencv-python
-pip install pandas
-pip install numpy
-pip install joblib
-pip install Pillow
 ```
 
 You will also need to install with homebrew:
 Chrome WebDriver: For web automation functionality
-Tesseract OCR: For text extraction from images
 
 
 Run the programs in this order
