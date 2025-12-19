@@ -20,7 +20,7 @@ Make sure already have an Hexameter.co account before you run step 4
 
 # Reasources used
 
-- Used Flint AI to write most of the code. I gave ideas,  instructions, and pseudocode
+- Assisted by Flint AI to write  of the code. I gave ideas,  instructions, and pseudocode
 - To learn the way
     - https://www.wolframcloud.com/automatic-metrical-scansion-of-latin-poetry-in-dactylic-hexameter--2019-07-5kj8o7i/
     - https://www.ibm.com/think/topics/recurrent-neural-networks#763338458
@@ -34,14 +34,11 @@ Make sure already have an Hexameter.co account before you run step 4
 
 
 # How it Works
+- Main.py connects to Hexameter.co. It will run on an infinite loop, answering questions and collecting lines. The user chooses the model used.
+- CNN.py builds, trains, saves, and can load the CNN model
+- LSTM.py builds, trains, saves, and can load the LSTM model
+- Transformer.py builds, trains, saves, and can load the transformer model
 
-## Example strategies/features used
-
-
-# Explaination for code
-
-
-# Issue with the code
 
 # Future Enhancements
 - Cleaner interface
