@@ -2,6 +2,10 @@
 
 This an AI that predict the scansion of a line of Latin Hexameter Poetry.
 
+# Project Overview
+
+The project trains 3 separate ML models: CNN, RNN(LSTM), and Transformer. These models can be run in Main.py, along with a base Macronizer, to answer questions on Hexameter.co. The code is a self-sufficent cycle, because better code gets lines from Hexameter (my source of data) much faster. 
+
 # Instruction to run it
 
 You need several packages installed first. Make sure that they are updated.
