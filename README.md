@@ -44,3 +44,6 @@ Make sure already have an Hexameter.co account before you run step 4
 # Issue with the code
 
 # Future Enhancements
+- Cleaner interface
+- More comparisons
+- Overcome Alatius
