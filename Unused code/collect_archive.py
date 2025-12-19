@@ -128,7 +128,7 @@ def collect_latin_lines_for_dataset():
                 lines_this_round = 0
 
                 # Save data
-                with open('../Misc/hexameter_lines.json', 'w', encoding='utf-8') as f:
+                with open('../hexameter_lines.json', 'w', encoding='utf-8') as f:
                     json.dump(data_collected, f, indent=2, ensure_ascii=False)
 
                 # Restart the game
@@ -173,7 +173,7 @@ def collect_latin_lines_for_dataset():
                 print(f"Error: {e}")
                 continue
 
-            with open('../Misc/hexameter_lines.json', 'w', encoding='utf-8') as f:
+            with open('../hexameter_lines.json', 'w', encoding='utf-8') as f:
                 json.dump(data_collected, f, indent=2, ensure_ascii=False)
 
             print("Data saved to hexameter_lines.json")
