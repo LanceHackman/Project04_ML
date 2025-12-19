@@ -46,5 +46,6 @@ Make sure already have an Hexameter.co account before you run step 4
 
 # Future Enhancements
 - Cleaner interface
+- Organize code and files
 - More comparisons
 - Overcome Alatius
